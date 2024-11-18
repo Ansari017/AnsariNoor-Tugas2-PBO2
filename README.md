@@ -125,6 +125,7 @@ public DiskonFrame() {
 
 ## Contoh Gambar Project Setelah di Run
 ![]
+![Cuplikan layar 2024-11-18 111350](https://github.com/user-attachments/assets/74a9703e-9040-4d73-a146-95314fd28c7a)
 
 ## Indikator Penilaian:
 
